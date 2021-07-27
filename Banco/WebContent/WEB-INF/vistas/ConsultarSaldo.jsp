@@ -15,23 +15,12 @@
 						<span class="card-header-title">Consulta de Saldo</span>
 					</div>
 					<div class="card-content">
-					<div class="field">
-							<label class="label" for="rut-txt">Rut</label>
-							<div class="control ">
-								<input type="text" class="input" id="rut-txt" name="rut-txt"
-									placeholder="XXXX" />
-							</div>
-						</div>
+					
 						<div class="field">
 							<label class="label" for="saldo-txt">Saldo</label>
 							<div class="control ">
 								<input type="text" class="input" id="saldo-txt" name="saldo-txt"
 									placeholder="XXXX" />
-							</div>
-						</div>
-							<div class="field">				
-							<div class="card-footer-item">
-								<button type="submit" class="button is-info">Consultar</button>
 							</div>
 						</div>
 					</div>
@@ -62,11 +51,6 @@
 							<div class="control">
 								<input type="text" class="input" id="saldolineacreditousado-txt"
 									name="saldolineacreditousado-txt" />
-							</div>
-						</div>
-							<div class="field">				
-							<div class="card-footer-item">
-								<button type="submit" class="button is-info">Pagar</button>
 							</div>
 						</div>
 					</div>

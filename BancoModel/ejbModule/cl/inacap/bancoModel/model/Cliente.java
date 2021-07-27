@@ -11,6 +11,7 @@ import java.util.List;
  */
 @Entity
 @NamedQuery(name="Cliente.findAll", query="SELECT c FROM Cliente c")
+@NamedQuery(name="Cliente.login", query="SELECT c FROM Cliente c WHERE c.rut=:rut AND c.clave=:clave")
 public class Cliente implements Serializable {
 	private static final long serialVersionUID = 1L;
 

@@ -3,6 +3,7 @@
 	<name>Banco</name>
 	<comment></comment>
 	<projects>
+		<project>BancoModel</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

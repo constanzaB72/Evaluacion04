@@ -15,8 +15,8 @@
 					<div class=" navbar-end">
 						<a class="  navbar-item" href="LoginController.do">
 							Iniciar Sesion </a> <a class="navbar-item" href="ConsultarSaldoController.do">Consultar Saldo</a> 
-							<a class="navbar-item" href="MovimientosController.do">Consultar Movimientos</a> <a class="navbar-item" href="TransferenciaController.do">Realizar Transferencia</a>
-							<a class="navbar-item" href="MensajesController.do">Mensajes</a>
+							<a class="navbar-item" href="MovimientosController.do">Consultar Movimientos</a>
+							 <a class="navbar-item" href="TransferenciaController.do">Realizar Transferencia</a>
 					</div>
 				</div>
 			</div>

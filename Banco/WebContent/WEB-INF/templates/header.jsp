@@ -11,20 +11,19 @@
 	<header>
 		<div class="">
 			<nav class="navbar" role="navigation" aria-label="main navigation">
-	
-				<div id="navbarBasicExample"
-					class="navbar-menu has-background-info">
+
+				<div id="navbarBasicExample" class="navbar-menu has-background-info">
 					<div class="navbar-menu">
-					<div class="navbar-start">
-					<a class="navbar-item" href="index.jsp">Home</a>
-					<a class="navbar-item" href="LoginController.do">Iniciar sesion</a>
-							<a class="navbar-item" href="ConsultarSaldoController.do">Consultar Saldo </a>
-								<a class="navbar-item"  href="MovimientosController.do"> Consultar Movimientos</a>
-								<a class="navbar-item"  href="TransferenciaController.do"> Realizar Transferencia</a>
-								<a class="navbar-item"  href="MensajesController.do"> Mensajes</a>
-							</div>
-							</div>
+						<div class="navbar-start">
+							<a class="navbar-item" href="index.jsp">Home</a> <a
+								class="navbar-item" href="LoginController.do">Iniciar sesion</a>
+							<a class="navbar-item" href="ConsultarSaldoController.do">Consultar
+								Saldo </a> <a class="navbar-item" href="MovimientosController.do">
+								Consultar Movimientos</a> <a class="navbar-item"
+								href="TransferenciaController.do"> Realizar Transferencia</a>
+						</div>
 					</div>
+				</div>
 			</nav>
 		</div>
 	</header>
